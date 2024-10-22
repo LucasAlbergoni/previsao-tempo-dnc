@@ -6,4 +6,4 @@ Landing page para previsão do tempo que fornece dados em tempo real e informaç
 
 # Link
 
-<li>https://previsao-tempo-dnc.netlify.app/</li>
+<a>https://previsaotempo-dnc.netlify.app</a>
